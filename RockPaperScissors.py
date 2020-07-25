@@ -2,8 +2,9 @@
 """
 Spyder Editor
 
-This is a temporary script file.
+Author: SubjectCharlie
 """
+#THIS IS A ROCK PAPER SCISSORS GAME
 
 import random
 
